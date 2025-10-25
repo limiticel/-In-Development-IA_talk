@@ -1,0 +1,14 @@
+{
+    "paths":
+    {
+        "first_classification":"./project/first_classification.json",
+        "traindatabase_first_class":"./project/traindatabase/entry_first_class.json",
+        "context_path":"./project/contexts.json"
+    },
+
+    "classificationConfig":
+    {
+        "first_epochs": 5
+    }
+
+}
